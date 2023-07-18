@@ -77,8 +77,9 @@ img {
 /* HOME
 -------------------------------*/
 #home {
-    background-image: url(./images/main-bg.JPG);
+    background-image: url(../images/main-bg.jpg);
     min-height: 100vh;
+    background-blend-mode: lighten;
 }
 #home .page-title {
     text-transform: none;
@@ -94,7 +95,7 @@ img {
 /* RECORD 
 ------------------------- */
 #record {
-    background-image: url(./images/record-bg.JPG);
+    background-image: url(../images/record-bg.JPG);
     min-height: 50vh;
     background-blend-mode: lighten;
 }
