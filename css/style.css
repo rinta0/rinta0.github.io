@@ -42,7 +42,7 @@ img {
 
 /* 大きな背景画像　*/
 .big-bg {
-    background-size: cover;
+    background-size: contain;
     background-position: center top;
 }
 
