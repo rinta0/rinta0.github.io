@@ -43,6 +43,7 @@ img {
 /* 大きな背景画像　*/
 .big-bg {
     background-size: contain;
+    object-fit: fill;
     background-position: center top;
 }
 
